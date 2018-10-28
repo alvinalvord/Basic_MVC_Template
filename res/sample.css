@@ -1,0 +1,11 @@
+#hello {
+	-fx-font-size: 30pt;
+	-fx-font-family: Comic Sans MS;
+	-fx-text-fill: #8000FF;
+}
+
+#lbl {
+	-fx-font-size: 18pt;
+	-fx-font-family: Comic Sans MS;
+	-fx-text-fill: #FF8080;
+}
