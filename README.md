@@ -11,4 +11,4 @@ Reason for making this,
 Simply execute the run batch file to execute the program.
 
 ## Linux / Mac
-Lol I don't have one so idk how you do bash files
+Lol I don't have one so idk how you do bash files. You can still manually do these compile commands tho so glhf.
