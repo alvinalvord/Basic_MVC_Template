@@ -1,3 +1,8 @@
+/**
+*	SAMPLE BEAN DISREGARD IF YOU WANT
+*	@author: Pillejera, Jasper Glen A.
+*	last modified: Oct. 28, 2018
+*/
 package model.beans;
 
 public class SampleBean {
