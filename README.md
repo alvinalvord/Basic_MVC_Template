@@ -7,6 +7,8 @@ Reason for making this,
 3. I don't like how IDEs code drag and drop stuff, it can get pretty messy
 4. I don't like to code using IDEs
 
+In the sample, click the text lol to append more lols.
+
 ## Windows 
 Simply execute the run batch file to execute the program.
 
